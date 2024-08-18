@@ -1,0 +1,16 @@
+# Ignorar arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar a pasta node_modules (em projetos Node.js)
+node_modules/
+
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar diretórios de build/output
+dist/
+build/
